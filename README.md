@@ -1,5 +1,5 @@
-When the user opens the application, she/he will be able to view their profile information including their picture.
-The progress bar will also indicate how much their profile is completed.
+When the user opens the application, she/he will be able to view their profile information including their picture.\n
+The progress bar will also indicate how much their profile is completed.\n
 ![image](https://github.com/Happy2579/Health-and-Fitness-App/assets/81232763/1f9be94f-9f64-44aa-acf3-7e7bbfdec377)
 A message will also show to complete their profile.
 Functionality for the same can be implemented.
